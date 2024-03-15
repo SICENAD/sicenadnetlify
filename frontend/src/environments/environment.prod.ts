@@ -8,5 +8,6 @@ export const environment = {
   tiposTiro:  ["Tiro directo", "Tiro indirecto", "Tiro antiaereo"],
   categoriaFicheroCartografia: "1", // es el id de la categoria de fichero "Cartografia", seria la primera en crearse al crear la app
   // endpoint para atacar en produccion (del servidor del cenad)
-  hostSicenad: 'https://sicenadfinal.herokuapp.com/api/'
+  //hostSicenad: 'https://sicenadfinal.herokuapp.com/api/'
+  hostSicenad: 'https://sicenad-otqe5j4j.b4a.run/api/'
 };
